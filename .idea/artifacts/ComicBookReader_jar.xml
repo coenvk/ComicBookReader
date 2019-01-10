@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ComicBookReader:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/ComicBookReader_jar</output-path>
+    <root id="archive" name="ComicBookReader.jar">
+      <element id="module-output" name="ComicBookReader" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/axet/java-unrar/1.7.0-3/java-unrar-1.7.0-3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

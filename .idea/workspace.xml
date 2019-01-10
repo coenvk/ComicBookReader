@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ComicBookReader:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a64ae934-9ce2-4251-955a-1aa368e2bac4" name="Default" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/2ce80c52-a19b-497c-92b4-8481cc109ac7/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/cd0f5daf-d2df-4cbf-ad34-c39499da27f1/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/consoles/db/00f80440-51fd-4ce3-aa54-d0d2f3a6cca0/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/databaseDrivers.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/FileTypeDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arman/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/.idea/dictionaries/Coen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/src/JDBCassignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/src/ex1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/src/ex2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/src/ex3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ta-work/src/ex4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/gameobjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/move.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module 6/AI/Snake/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/.idea/libraries/concurrent_junit_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/.idea/libraries/jcip_annotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/AST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/NonTerm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ParseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/Symbol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/SymbolFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/Term.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/Sentence.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceMod.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceMod.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceModBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceModLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceModLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceModListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceModParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceModUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/SentenceUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/Arithmetic.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/Arithmetic.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticUsage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/antlr/arithmetic/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/BasicLLCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/GenericLLParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/Grammar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/Grammars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/If.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/LLCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/LRQ.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/LrqParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/Rule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/Sentence.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/ll/SentenceParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/test/GenericLLParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/test/LLCalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cc/test/SentenceConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/annotation/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/annotation/RandomDrift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/annotation/RandomPointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/listings/UnsafeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/queue/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/queue/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/queue/SafeLinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/tests/LinkedQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/tests/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/tests/ThreadedTimerPoolTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/tests/ThreadedTimerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/tests/UnsafeSequenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/timer/ThreadedTimer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block2/cp/timer/ThreadedTimerPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/Calc.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/CalcAttr.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/CalcVocab.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/T.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/TAttr.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/TConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/TVocab.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/antlr/Type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/symbol/BasicSymbolTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/symbol/DeclUse.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/symbol/DeclUseConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/symbol/SymbolTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/symbol/declexamplecorrect.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/symbol/declexamplewrong.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/HTMLListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/SimpleErrorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/Tabular.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/tabular-1.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/tabular-2.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/tabular-3.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/tabular-4.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/tabular/tabular-5.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/test/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/test/DeclUseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/test/SymbolTableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cc/test/TTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/hotel/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/jml/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/lockcoupling/ConcurrentLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/lockcoupling/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/mapreduce/MapReduceBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/synchronizers/BasicLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/synchronizers/CompareAndSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/synchronizers/DekkerLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/tests/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block3/cp/tests/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/ErrorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/BottomUpCFGBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/Fragment.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/FragmentBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/FragmentLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/FragmentListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/FragmentParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/cfg/TopDownCFGBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/iloc/Calc.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/iloc/CalcCompiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/iloc/Samples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/iloc/max.iloc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/test/CalcCompilerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Module_8/CC/pp/block4/cc/test/FindTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Game/src/main/java/com/arman/GamePlay.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Game/src/main/java/com/arman/GamePlayState.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Game/src/main/java/com/arman/main/Direction.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Game/src/main/java/com/arman/main/Move.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/Album.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/EqualizerPresets.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/FXMLController.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/FXMLTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/FXPlayList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/PlayButton.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/PlayList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/PreviousButton.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/RepeatButton.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/RootLayout.fxml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/SeekBar.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/SkipButton.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/SmartSplashPlayer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/Song.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/SplashPlayer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/SplashScreen.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/ThemeSpinner.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/VolumeSlider.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/darktheme.css" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/dialog.css" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/test/SplashScreen.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/util/IconConstants.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/util/ImageViewer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/util/KeepAwakeThread.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/main/java/com/arman/jfx/util/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JPlay/src/test/java/com/arman/jfx/Test.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/geom/Matrix4D.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/geom/Quaternion.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/geom/Vector2D.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/main/Camera.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/main/MeshLoader.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/main/Scene.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/main/Time.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/main/View.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/models/Edge.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/models/Face.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/models/Model.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/models/Vertex.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/parsers/MaterialParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/ApplicationPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/ClippingPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/GeometryPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/GraphicsPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/LightingPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/Pipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/ProjectionPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/pipelines/RasterizationPipeline.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/projectors/Orthographic.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/projectors/Projection.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/rasterizers/TriangleRasterizer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/BasicRenderer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/BoundingBox.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/EdgeData.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/GlobalEdgeTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/Graphics.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/Renderer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/ScanConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/ScanLine.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/ScanLineRenderer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/ZBuffer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/renderers/ZBufferRenderer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/ObjectViewer3D/src/main/java/com/arman/util/ExtraMath.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/error.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/db_connect.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/functions.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/login.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/logout.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/psl-config.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/register.inc.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/test.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/index.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/forms.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/sha512.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register_success.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Ball.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Collisions.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Cue.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Game.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/GameEvents.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Physics.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Rules.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Table.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Window.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/Download-v3.zip" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComicBookReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1825">
+              <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComicBookPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1325">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComicBook.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ComicPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding>
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>throw new</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/Startup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/FileTypeDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/Mouse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/ComicBookZip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/ComicBookArchive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/ComicBook.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/ComicPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ComicBookReader" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ComicBookReader" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="width" value="1174" />
+    <option name="height" value="1307" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Cucumber</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="arman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ComicBookReader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ComicBookReader" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Lightning" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.arman" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.Main" />
+      <module name="ComicBookReader" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../../../deadpool.cbr" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Coen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a64ae934-9ce2-4251-955a-1aa368e2bac4" name="Default" comment="" />
+      <created>1526505907797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526505907797</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="0" width="1174" height="1307" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tool Output" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32841328" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24863388" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.45571956" />
+      <window_info anchor="bottom" id="Statistic" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3287796" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="52" selection-start-line="52" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3/lib/maven-model-builder-3.3.9.jar!/org/apache/maven/model/pom-4.0.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="78" column="8" selection-start-line="78" selection-start-column="8" selection-end-line="78" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-620">
+          <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Startup.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/axet/java-unrar/1.7.0-3/java-unrar-1.7.0-3.jar!/de/innosystec/unrar/NativeStorage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/axet/java-unrar/1.7.0-3/java-unrar-1.7.0-3.jar!/de/innosystec/unrar/Archive.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="53" column="25" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/FileTypeDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="1005" column="19" selection-start-line="1005" selection-start-column="19" selection-end-line="1005" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/event/MouseAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Mouse.java" />
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/event/MouseEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="809" column="17" selection-start-line="809" selection-start-column="17" selection-end-line="809" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/Graphics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="881" column="28" selection-start-line="881" selection-start-column="28" selection-end-line="881" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookZip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/event/MouseMotionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="6580" selection-start-line="6580" selection-end-line="6580" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/javax/swing/JRootPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="618" column="16" selection-start-line="618" selection-start-column="16" selection-end-line="618" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/javax/swing/JScrollPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="321" column="11" selection-start-line="321" selection-start-column="11" selection-end-line="321" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="4311" column="15" selection-start-line="4311" selection-start-column="15" selection-end-line="4311" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookArchive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="696" column="16" selection-start-line="696" selection-start-column="16" selection-end-line="696" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1325">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/ComicBookReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="1188" column="6" selection-start-line="1188" selection-start-column="6" selection-end-line="1188" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1825">
+          <caret line="73" column="18" selection-start-line="73" selection-start-column="18" selection-end-line="73" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ComicBookReader:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>campoe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ComicBookReader</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-logging:commons-logging:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
