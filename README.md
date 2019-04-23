@@ -3,4 +3,4 @@ A desktop application which you can use to read comic books. The layout makes yo
 
 Open a .cbr file to start reading.
 
-![Comic Book Reader](comic_book_reader.png)
+![Comic Book Reader](comic_book_reader_screenshot.png)
